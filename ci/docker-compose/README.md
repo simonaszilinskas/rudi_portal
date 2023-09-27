@@ -36,7 +36,7 @@ _A l'issue de cette opération, les jar des microservices sont copiés dans les 
   
 ```
 cd <root-rudi>/ci/docker-compose
-sudo buildDockerImage.sh
+sudo ./buildDockerImage.sh
 ```
 
 *Remarque :*
